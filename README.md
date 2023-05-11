@@ -9,6 +9,10 @@ Morgan library, 110a
 
 ## Use the Discussions to
 
+### ask a question
+
+As in [General Q&A](https://github.com/Colorado-State-University-CMB/Code-club/discussions/categories/q-a) posted to the code club.
+
 ### propose a topic
 
 
