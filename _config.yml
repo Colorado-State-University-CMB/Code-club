@@ -1,0 +1,6 @@
+title: Code Club
+logo: /assets/img/logo.png
+description: Place for computational help and community
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
