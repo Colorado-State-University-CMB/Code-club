@@ -5,7 +5,7 @@ Code club: a meeting group for help on bio coding and analysis
         data-repo="Code-club"
         data-repo-id="R_kgDOJh5bSg"
         data-category="Announcements"
-        data-category-id="[ENTER CATEGORY ID HERE]"
+        data-category-id="DIC_kwDOJh5bSs4CWbG2"
         data-mapping="pathname"
         data-strict="0"
         data-reactions-enabled="1"
