@@ -2,7 +2,7 @@
 Code club: a meeting group for help on bio coding and analysis
 
 <script src="https://giscus.app/client.js"
-        data-repo="Code-club"
+        data-repo="Colorado-State-University-CMB/Code-club"
         data-repo-id="R_kgDOJh5bSg"
         data-category="Announcements"
         data-category-id="DIC_kwDOJh5bSs4CWbG2"
