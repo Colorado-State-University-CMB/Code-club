@@ -1,17 +1,26 @@
 # Code-club
 Code club: a meeting group for help on bio coding and analysis
 
-Announcements:
+## Announcements
 
+### May 19, 2023
 
+Over the summer... 
+We will continue to meet weekly on Fridays, 11am-1pm in the Morgan library conference room 110a. It's in the set of offices in the very back of the first floor, going to the left when you enter the building. 
+
+### Previous 
 
 [See all announcements](https://github.com/Colorado-State-University-CMB/Code-club/discussions/categories/announcements?discussions_q=is%3Aopen+category%3AAnnouncements+sort%3Adate_created) 
 
 ### Where
-Morgan library, 110a
+
+**Morgan library, 110a**
+
+It's in the set of offices in the very back of the first floor, going to the left when you enter the building. 
 
 ### When
-11am - 1pm, Fridays
+
+**11am - 1pm, Fridays**
 
 ## Use the Discussions to
 
