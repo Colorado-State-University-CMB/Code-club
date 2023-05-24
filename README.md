@@ -3,7 +3,7 @@ Code club: a meeting group for help on bio coding and analysis
 
 ## Announcements
 
-<iframe src="//eexhqlcs37sd5tlpzqnfklgm5a0ahdpu.lambda-url.us-west-2.on.aws/"></iframe>
+<iframe style="border: 0px;" src="//eexhqlcs37sd5tlpzqnfklgm5a0ahdpu.lambda-url.us-west-2.on.aws/"></iframe>
 
 ### May 19, 2023
 
