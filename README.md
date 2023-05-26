@@ -21,10 +21,10 @@ We will continue to meet weekly on Fridays, 11am-1pm in the Morgan library confe
 
 ## Use the Discussions to
 
-### ask a question
+### Ask a question
 
 As in [General Q&A](https://github.com/Colorado-State-University-CMB/Code-club/discussions/categories/q-a) posted to the code club.
 
-### propose a topic
+### Propose a topic
 
-
+See [topics that have been proposed](https://github.com/Colorado-State-University-CMB/Code-club/discussions/categories/topics) for potential scheduling time/place. If your topic of interest hasn't been proposed yet, [you may suggest one by posting to that thread.](https://github.com/Colorado-State-University-CMB/Code-club/discussions/new?category=topics)
