@@ -13,7 +13,7 @@ Code club: a meeting group for help on bio coding and analysis
 **Morgan library, 110a**
 
 Over the summer... 
-We will continue to meet weekly on Fridays, 11am-1pm in the Morgan library conference room 110a. It's in the set of offices in the very back of the first floor, going to the left when you enter the building. (May 19, 2023
+We will continue to meet weekly on Fridays, 11am-1pm in the Morgan library conference room 110a. It's in the set of offices in the very back of the first floor, going to the left when you enter the building. (May 19, 2023)
 
 ### When
 
