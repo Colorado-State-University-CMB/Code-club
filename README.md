@@ -13,7 +13,7 @@ We will continue to meet weekly on Fridays, 11am-1pm in the Morgan library confe
 
 ## Announcements
 
-<iframe style="width: 100%; border: 0px;" src="//eexhqlcs37sd5tlpzqnfklgm5a0ahdpu.lambda-url.us-west-2.on.aws/"></iframe>
+<iframe style="width: 100%;" src="//eexhqlcs37sd5tlpzqnfklgm5a0ahdpu.lambda-url.us-west-2.on.aws/"></iframe>
 
 [See all announcements on the github discussion page](https://github.com/Colorado-State-University-CMB/Code-club/discussions/categories/announcements?discussions_q=is%3Aopen+category%3AAnnouncements+sort%3Adate_created) 
 
