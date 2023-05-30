@@ -1,6 +1,8 @@
 # Code-club
 Code club: a meeting group for help on bio coding and analysis.
 
+**When and Where:** Morgan library, 110a. 11am - 1pm, Fridays
+
 ## Announcements
 
 ---
@@ -10,7 +12,7 @@ Code club: a meeting group for help on bio coding and analysis.
 
 ---
 
-### When and Where
+### Summer schedule
 
 **Morgan library, 110a**
 
