@@ -1,6 +1,6 @@
 title: Code Club
 logo: /assets/img/ascii-art-dna-chr1.png
 description: Place for computational help and community
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
