@@ -15,7 +15,7 @@ We will continue to meet weekly on Fridays, 11am-1pm in the Morgan library confe
 
 ### Most recent announcement
 
-<iframe style="width: 100%;" src="//eexhqlcs37sd5tlpzqnfklgm5a0ahdpu.lambda-url.us-west-2.on.aws/"></iframe>
+<iframe style="width: 100%; border-radius: 25px;" src="//eexhqlcs37sd5tlpzqnfklgm5a0ahdpu.lambda-url.us-west-2.on.aws/"></iframe>
 
 ### Previous announcements
 
