@@ -4,5 +4,6 @@
 @import "{{ site.theme }}";
 
 iframe {
-  border: 5px solid aliceblue;
+  border: 1px solid aliceblue;
+  border-radius: 5px;
 }
