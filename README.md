@@ -21,6 +21,8 @@ We will continue to meet weekly on Fridays, 11am-1pm in the Morgan library confe
 
 **11am - 1pm, Fridays**
 
+<iframe src="https://calendar.google.com/calendar/embed?src=9ccc3aa8455b549454378e843c8a0fc9ffa5b292db1a163ed7c9ed6d576a0cca%40group.calendar.google.com&ctz=America%2FDenver" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
 ## Use the Discussions to
 
 ### Ask a question
