@@ -1,7 +1,7 @@
 # Code-club
 Code club: a meeting group for help on bio coding and analysis.
 
-**When and Where:** Morgan library, 110a. 11am - 1pm, Fridays
+**When and Where:** AZ E210, Fridays 12:00pm-2pm.
 
 ## Announcements
 
