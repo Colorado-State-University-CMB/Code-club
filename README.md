@@ -1,7 +1,7 @@
 # qCMB Code-club
 qCMB Code club: a meeting group for help on bio coding and analysis. Currently, we informally sit down and discuss coding approaches, provide help, and point to resources.
 
-**When and Where:** AZ E210, Fridays 12:00pm-2pm.
+**When and Where:** AZ H210, Fridays 1:00pm-3pm.
 
 ## Help us grow as a resource!
  
