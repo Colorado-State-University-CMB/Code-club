@@ -29,14 +29,4 @@ See [topics that have been proposed](https://github.com/Colorado-State-Universit
 
 ---
 
-### Fall 2023 Schedule
-
-
-**12m - 2pm, Fridays**
-
-Go to AZ E210 for:
- * general Q&A 12-2
- * office hours for DSCI 510-512
-
-
 
