@@ -46,3 +46,20 @@ sinfo --format="%N | %f"
 All jobs on Riviera are run through a queue system using the SLURM job scheduler. Though many HPC workflows are run through batch-type jobs, interactive jobs on compute nodes are allowed but these must also be initiated through the scheduler. High-priority jobs move to the top of the queue and are thus guaranteed to start running within a few minutes, unless other high-priority jobs are already queued or running ahead of them. High-priority jobs can run for a maximum wall time of 24 hours. Low-priority jobs have a maximum wall time of 7 days.
 
 More details about how to use SLURM to run jobs can be found in our [running applications with jobs](../../running-jobs/running-apps-with-jobs.md) documentation.
+
+### Transfering files
+
+Best tool to use is rsync 
+
+Transfering files from Riviera to Local computer
+```
+rsync {flags} user@riviera.colostate.edu:/path/to/files /path/to/local/destination
+```
+
+Transfering files from Local computer to Riviera
+```
+rsync {flags} /path/to/local/files user@riviera.colostate.edu:/path/to/destination
+```
+
+Usefull flags
+-avhzP
