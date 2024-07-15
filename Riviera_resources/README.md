@@ -1,9 +1,4 @@
 # Riviera
 
-## What is it?
+[Click here to see documentation for the Riviera HPC system.](Riviera_docs.md)
 
-
-[Riviera at the Data Science Research Institute](https://www.research.colostate.edu/dsri/hpc-riviera/ "Riviera Sign-up")
-
-
-[Riviera Docs](Riviera_docs.md)
