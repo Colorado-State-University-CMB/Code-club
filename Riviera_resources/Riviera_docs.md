@@ -2,6 +2,15 @@
 
 Riviera is Colorado State University's high performance computing (HPC) cluster. Riviera currently consist of  2,112 CPU cores, 20 NVIDA A100s capable of 10 petaflops of AI computing and two high memory nodes (two terabytes of RAM per node). Along with three petabytes of storage.
 
+[Submit a form here to get an account](https://www.research.colostate.edu/dsri/hpc-riviera/)
+
+### Logging in
+
+Once you get your account, you must:
+- be on the CSU network
+- use ssh from a terminal
+- know shell commands
+
 ### Riviera Quick-Start
 
 1. From a *login node* load the slurmtools module to access the SLURM job scheduler instance for Riviera:
