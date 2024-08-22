@@ -2,4 +2,4 @@
 
 ## Getting Started
 
-## Links to do Resources
+## Links to Resources
