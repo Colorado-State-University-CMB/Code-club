@@ -8,7 +8,7 @@ Optional remote work sessions provide a block of time to be productive and a com
 
 **When and Where:** 
 Mondays & Wednesdays 6 pm-9 pm on Microsoft Teams
-[Microsoft Teams Metting Link](https://teams.microsoft.com/meet/269247852761?p=GzIVeoY9D58UV9YaoL)
+[Meeting Link](https://teams.microsoft.com/meet/269247852761?p=GzIVeoY9D58UV9YaoL)
 
 ## Help us grow as a resource!
  
